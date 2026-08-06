@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="480" viewBox="0 0 1180 480" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Aryan Chaudhary — profile.sh --live">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="10s" repeatCount="indefinite"/></stop>
+  <stop offset="0.5" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#10B981;#2563EB;#06B6D4" dur="10s" repeatCount="indefinite"/></stop>
+  <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#2563EB;#06B6D4;#10B981" dur="10s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#EEF2F7"/></linearGradient>
+<linearGradient id="monoGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+<filter id="glow8" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="glow3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<clipPath id="winClip"><rect x="2" y="2" width="1176" height="476" rx="18"/></clipPath>
+</defs>
+<rect x="2" y="2" width="1176" height="476" rx="18" fill="#FFFFFF"/>
+<g clip-path="url(#winClip)">
+<rect x="2" y="2" width="1176" height="476" fill="url(#panelGrad)"/>
+<rect x="2" y="2" width="1176" height="46" fill="#F1F5F9"/>
+<line x1="2" y1="48" x2="1178" y2="48" stroke="rgba(15,23,42,0.10)"/>
+<circle cx="30" cy="25" r="5.5" fill="#ff5f56"/>
+<circle cx="50" cy="25" r="5.5" fill="#ffbd2e"/>
+<circle cx="70" cy="25" r="5.5" fill="#27c93f"/>
+<text x="590" y="29" text-anchor="middle" font-size="12" fill="#475569">chaudharyaryan779@gmail.com - % ./profile.sh --live</text>
+
+<!-- LEFT: decorative code panel -->
+<text x="38" y="74" font-size="10" letter-spacing="3" fill="#94A3B8">DEV.PROFILE</text>
+<rect x="36" y="84" width="400" height="360" rx="10" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
+<rect x="36" y="84" width="400" height="360" rx="10" fill="#F8FAFC" stroke="rgba(8,145,178,0.40)"/>
+<circle cx="236" cy="150" r="52" fill="none" stroke="url(#monoGrad)" stroke-width="3" opacity="0.9"/>
+<circle cx="236" cy="150" r="52" fill="none" stroke="url(#monoGrad)" stroke-width="10" opacity="0.15" filter="url(#glow8)"/>
+<text x="236" y="163" text-anchor="middle" font-size="34" font-weight="700" fill="url(#monoGrad)">AC</text>
+
+<g font-size="13.5" xml:space="preserve">
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.4s" fill="freeze"/><text x="58" y="245" fill="#7C3AED">const</text><text x="98" y="245" fill="#0F172A"> dev = {</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.6s" fill="freeze"/><text x="70" y="266" fill="#0891B2">name</text><text x="108" y="266" fill="#0F172A">: </text><text x="120" y="266" fill="#059669">"Aryan Chaudhary"</text><text x="252" y="266" fill="#0F172A">,</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8s" fill="freeze"/><text x="70" y="287" fill="#0891B2">role</text><text x="106" y="287" fill="#0F172A">: </text><text x="118" y="287" fill="#059669">"Full Stack Developer"</text><text x="278" y="287" fill="#0F172A">,</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.0s" fill="freeze"/><text x="70" y="308" fill="#0891B2">stack</text><text x="112" y="308" fill="#0F172A">: [</text><text x="130" y="308" fill="#059669">"MERN"</text><text x="180" y="308" fill="#0F172A">, </text><text x="196" y="308" fill="#059669">"Django"</text><text x="252" y="308" fill="#0F172A">],</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.2s" fill="freeze"/><text x="70" y="329" fill="#0891B2">education</text><text x="150" y="329" fill="#0F172A">: </text><text x="162" y="329" fill="#059669">"B.Tech CSE, 2027"</text><text x="298" y="329" fill="#0F172A">,</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.4s" fill="freeze"/><text x="70" y="350" fill="#0891B2">status</text><text x="118" y="350" fill="#0F172A">: </text><text x="130" y="350" fill="#059669">"Building + Shipping"</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.6s" fill="freeze"/><text x="58" y="371" fill="#0F172A">};</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="1.4s" begin="1.8s" repeatCount="indefinite" fill="freeze"/><rect x="58" y="378" width="9" height="14" fill="#06B6D4"/></g>
+</g>
+
+<!-- RIGHT: system info -->
+<text x="470" y="74" font-size="13" letter-spacing="2" fill="#0891B2">SYSTEM.INFO</text>
+<line x1="566" y1="70" x2="1061" y2="70" stroke="rgba(15,23,42,0.10)"/>
+<text x="1125" y="74" text-anchor="end" font-size="12" fill="#DC2626" font-weight="700"><tspan>&#9679;</tspan> LIVE<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
+<rect x="470" y="90" width="230" height="20" rx="4" fill="#DBEAFE"/>
+<text x="479" y="104" font-size="14" font-weight="700" fill="#1D4ED8">chaudharyaryan779@gmail.com</text>
+</g>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.75s" fill="freeze"/><text x="470" y="132" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Subject </tspan><tspan fill="rgba(15,23,42,0.25)">............................................................</tspan><tspan fill="#0F172A" font-weight="600"> Aryan Chaudhary</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.9s" fill="freeze"/><text x="470" y="155" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Role </tspan><tspan fill="rgba(15,23,42,0.25)">.....................................................</tspan><tspan fill="#0F172A" font-weight="600"> Full-Stack Developer</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.05s" fill="freeze"/><text x="470" y="178" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Origin </tspan><tspan fill="rgba(15,23,42,0.25)">.....................................................</tspan><tspan fill="#0F172A" font-weight="600"> Lucknow, India</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.2s" fill="freeze"/><text x="470" y="201" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Education </tspan><tspan fill="rgba(15,23,42,0.25)">..........................................................</tspan><tspan fill="#0F172A" font-weight="600"> B.Tech CSE, BBDU</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.35s" fill="freeze"/><text x="470" y="224" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Status </tspan><tspan fill="rgba(15,23,42,0.25)">.........................................</tspan><tspan fill="#0F172A" font-weight="600"> Building + Learning + Shipping</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.5s" fill="freeze"/><text x="470" y="247" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">ToolChain </tspan><tspan fill="rgba(15,23,42,0.25)">.................................</tspan><tspan fill="#0F172A" font-weight="600"> VS Code, Git, Postman, Figma</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.65s" fill="freeze"/><text x="470" y="270" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Lang </tspan><tspan fill="rgba(15,23,42,0.25)">...................................................</tspan><tspan fill="#0F172A" font-weight="600"> JavaScript, Python, C++, Java</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.8s" fill="freeze"/><text x="470" y="293" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Frontend </tspan><tspan fill="rgba(15,23,42,0.25)">.........................................................</tspan><tspan fill="#0F172A" font-weight="600"> React, Vite</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.95s" fill="freeze"/><text x="470" y="316" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Backend </tspan><tspan fill="rgba(15,23,42,0.25)">..........................................................</tspan><tspan fill="#0F172A" font-weight="600"> Node.js, Django</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.1s" fill="freeze"/><text x="470" y="339" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Database </tspan><tspan fill="rgba(15,23,42,0.25)">...............................................</tspan><tspan fill="#0F172A" font-weight="600"> MongoDB, PostgreSQL</tspan></text></g>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.3s" fill="freeze"/><text x="470" y="368" font-size="14" fill="#475569"><tspan fill="#475569">- Contact </tspan><tspan fill="rgba(15,23,42,0.25)">---------------------------------------------------------------------</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.45s" fill="freeze"/><text x="470" y="391" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Grid.Mail </tspan><tspan fill="rgba(15,23,42,0.25)">.........................................</tspan><tspan fill="#0F172A" font-weight="600"> chaudharyaryan779@gmail.com</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.6s" fill="freeze"/><text x="470" y="414" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Grid.GitHub </tspan><tspan fill="rgba(15,23,42,0.25)">.........................................................</tspan><tspan fill="#0F172A" font-weight="600"> @aryank77</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.75s" fill="freeze"/><text x="470" y="437" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Grid.LinkedIn </tspan><tspan fill="rgba(15,23,42,0.25)">............................................</tspan><tspan fill="#0F172A" font-weight="600"> aryank779</tspan></text></g>
+</g>
+<rect x="3" y="3" width="1174" height="474" rx="17" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.55" filter="url(#glow8)"/>
+<rect x="3" y="3" width="1174" height="474" rx="17" fill="none" stroke="url(#accent)" stroke-width="1.6"/>
+</svg>

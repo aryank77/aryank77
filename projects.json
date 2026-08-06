@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Netflix Clone",
+    "repo": "aryank77/Netflix-frontend",
+    "logo": "netflix.png",
+    "description": "Full-stack Netflix-style streaming UI with JWT auth, TMDB API integration, and live movie search",
+    "tags": ["React", "Vite", "MongoDB"]
+  },
+  {
+    "name": "Smart LPG System",
+    "repo": "aryank77/smart-lpg-management-system",
+    "logo": "lpg.png",
+    "description": "LPG cylinder booking and delivery tracking platform with Razorpay payments and role-based auth",
+    "tags": ["Django", "PostgreSQL", "Razorpay"]
+  },
+  {
+    "name": "Tech Blog Platform",
+    "repo": "aryank77/Blog-Post-Frontend",
+    "logo": "blog.png",
+    "description": "Full-stack blogging platform with secure authentication and category management",
+    "tags": ["React", "Node.js", "JWT"]
+  }
+]
