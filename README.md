@@ -6,6 +6,12 @@
 
 <br/>
 
+## 🧠 About Me
+
+<img src="./assets/about-card.svg" width="100%"/>
+
+<br/>
+
 ## 💼 Featured Projects
 
 <img src="./assets/netflix-card.svg" width="48%"/> <img src="./assets/lpg-card.svg" width="48%"/>
@@ -14,15 +20,21 @@
 
 <br/>
 
-## 🧠 About & Skills
+## 🚀 Skills
 
-<img src="./assets/about-card.svg" width="48%"/> <img src="./assets/skills-card.svg" width="48%"/>
+<img src="./assets/skills-card.svg" width="100%"/>
 
 <br/>
 
-## 🏆 Certifications & Internships
+## 🏆 Certifications
 
-<img src="./assets/certifications-card.svg" width="48%"/> <img src="./assets/internships-card.svg" width="48%"/>
+<img src="./assets/certifications-card.svg" width="100%"/>
+
+<br/>
+
+## 💻 Virtual Internships
+
+<img src="./assets/internships-card.svg" width="100%"/>
 
 <br/>
 
@@ -30,12 +42,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryank77&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank77&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="./profile/stats.svg" width="48%"/>
+<img src="./profile/top-langs.svg" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github.com/users/aryank77/contributions" width="100%"/>
+<img src="./profile/streak.svg" width="100%"/>
+
+<br/><br/>
+
+<img src="./profile/snake.svg" width="100%"/>
 
 </div>
 
