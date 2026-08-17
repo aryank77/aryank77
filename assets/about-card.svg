@@ -1,0 +1,26 @@
+<svg width="560" height="230" viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <rect x="1" y="1" width="558" height="228" rx="10" fill="#0d1117" stroke="#1f2937"/>
+  <text x="16" y="20" font-size="11" fill="#6b7280">● aryank77/about.md</text>
+  <circle cx="538" cy="16" r="4" fill="#374151"/>
+  <line x1="0" y1="30" x2="560" y2="30" stroke="#1f2937"/>
+
+  <rect x="18" y="46" width="40" height="40" rx="10" fill="#8b5cf6"/>
+  <circle cx="38" cy="60" r="7" fill="#ffffff"/>
+  <path d="M24 82 C24 70, 52 70, 52 82 Z" fill="#ffffff"/>
+
+  <text x="70" y="65" font-size="17" font-weight="bold" fill="#f3f4f6">About Me_</text>
+
+  <text x="18" y="106" font-size="12" fill="#22d3ee">🎓</text>
+  <text x="40" y="106" font-size="12" fill="#d1d5db">B.Tech CSE, Babu Banarasi Das University</text>
+  <text x="40" y="122" font-size="12" fill="#9ca3af">Lucknow (2023–2027) · CGPA 8.6/10</text>
+
+  <text x="18" y="146" font-size="12" fill="#22d3ee">💡</text>
+  <text x="40" y="146" font-size="12" fill="#d1d5db">Strong roots in DSA, OOP, DBMS, REST APIs</text>
+  <text x="40" y="162" font-size="12" fill="#9ca3af">and Authentication systems</text>
+
+  <text x="18" y="186" font-size="12" fill="#22d3ee">📍</text>
+  <text x="40" y="186" font-size="12" fill="#d1d5db">Lucknow, Uttar Pradesh, India</text>
+
+  <text x="18" y="208" font-size="12" fill="#22d3ee">📫</text>
+  <text x="40" y="208" font-size="12" fill="#d1d5db">chaudharyaryan779@gmail.com</text>
+</svg>
