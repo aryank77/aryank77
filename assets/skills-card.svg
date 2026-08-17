@@ -1,0 +1,59 @@
+<svg width="560" height="280" viewBox="0 0 560 280" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <rect x="1" y="1" width="558" height="278" rx="10" fill="#0d1117" stroke="#1f2937"/>
+  <text x="16" y="20" font-size="11" fill="#6b7280">● aryank77/skills.json</text>
+  <circle cx="538" cy="16" r="4" fill="#374151"/>
+  <line x1="0" y1="30" x2="560" y2="30" stroke="#1f2937"/>
+
+  <rect x="18" y="46" width="40" height="40" rx="10" fill="#f59e0b"/>
+  <path d="M38 52 L46 58 L46 66 L38 72 L30 66 L30 58 Z" fill="#ffffff"/>
+  <text x="70" y="65" font-size="17" font-weight="bold" fill="#f3f4f6">Tech Stack_</text>
+
+  <text x="18" y="100" font-size="11" fill="#6b7280">// Languages</text>
+  <rect x="18" y="108" width="44" height="20" rx="10" fill="#1f2937" stroke="#22d3ee"/>
+  <text x="40" y="122" font-size="10" fill="#67e8f9" text-anchor="middle">Java</text>
+  <rect x="68" y="108" width="58" height="20" rx="10" fill="#1f2937" stroke="#22d3ee"/>
+  <text x="97" y="122" font-size="10" fill="#67e8f9" text-anchor="middle">Python</text>
+  <rect x="132" y="108" width="80" height="20" rx="10" fill="#1f2937" stroke="#22d3ee"/>
+  <text x="172" y="122" font-size="10" fill="#67e8f9" text-anchor="middle">JavaScript</text>
+
+  <text x="18" y="152" font-size="11" fill="#6b7280">// Frontend</text>
+  <rect x="18" y="160" width="52" height="20" rx="10" fill="#1f2937" stroke="#a78bfa"/>
+  <text x="44" y="174" font-size="10" fill="#c4b5fd" text-anchor="middle">HTML5</text>
+  <rect x="76" y="160" width="48" height="20" rx="10" fill="#1f2937" stroke="#a78bfa"/>
+  <text x="100" y="174" font-size="10" fill="#c4b5fd" text-anchor="middle">CSS3</text>
+  <rect x="130" y="160" width="52" height="20" rx="10" fill="#1f2937" stroke="#a78bfa"/>
+  <text x="156" y="174" font-size="10" fill="#c4b5fd" text-anchor="middle">React</text>
+  <rect x="188" y="160" width="72" height="20" rx="10" fill="#1f2937" stroke="#a78bfa"/>
+  <text x="224" y="174" font-size="10" fill="#c4b5fd" text-anchor="middle">Bootstrap</text>
+
+  <text x="290" y="100" font-size="11" fill="#6b7280">// Backend</text>
+  <rect x="290" y="108" width="66" height="20" rx="10" fill="#1f2937" stroke="#34d399"/>
+  <text x="323" y="122" font-size="10" fill="#6ee7b7" text-anchor="middle">Node.js</text>
+  <rect x="362" y="108" width="80" height="20" rx="10" fill="#1f2937" stroke="#34d399"/>
+  <text x="402" y="122" font-size="10" fill="#6ee7b7" text-anchor="middle">Express.js</text>
+  <rect x="448" y="108" width="60" height="20" rx="10" fill="#1f2937" stroke="#34d399"/>
+  <text x="478" y="122" font-size="10" fill="#6ee7b7" text-anchor="middle">Django</text>
+
+  <text x="290" y="152" font-size="11" fill="#6b7280">// Database</text>
+  <rect x="290" y="160" width="76" height="20" rx="10" fill="#1f2937" stroke="#f472b6"/>
+  <text x="328" y="174" font-size="10" fill="#f9a8d4" text-anchor="middle">MongoDB</text>
+  <rect x="372" y="160" width="86" height="20" rx="10" fill="#1f2937" stroke="#f472b6"/>
+  <text x="415" y="174" font-size="10" fill="#f9a8d4" text-anchor="middle">PostgreSQL</text>
+
+  <text x="18" y="204" font-size="11" fill="#6b7280">// Tools</text>
+  <rect x="18" y="212" width="36" height="20" rx="10" fill="#1f2937" stroke="#fbbf24"/>
+  <text x="36" y="226" font-size="10" fill="#fde68a" text-anchor="middle">Git</text>
+  <rect x="60" y="212" width="54" height="20" rx="10" fill="#1f2937" stroke="#fbbf24"/>
+  <text x="87" y="226" font-size="10" fill="#fde68a" text-anchor="middle">GitHub</text>
+  <rect x="120" y="212" width="66" height="20" rx="10" fill="#1f2937" stroke="#fbbf24"/>
+  <text x="153" y="226" font-size="10" fill="#fde68a" text-anchor="middle">VS Code</text>
+  <rect x="192" y="212" width="66" height="20" rx="10" fill="#1f2937" stroke="#fbbf24"/>
+  <text x="225" y="226" font-size="10" fill="#fde68a" text-anchor="middle">Postman</text>
+  <rect x="264" y="212" width="58" height="20" rx="10" fill="#1f2937" stroke="#fbbf24"/>
+  <text x="293" y="226" font-size="10" fill="#fde68a" text-anchor="middle">Vercel</text>
+  <rect x="328" y="212" width="58" height="20" rx="10" fill="#1f2937" stroke="#fbbf24"/>
+  <text x="357" y="226" font-size="10" fill="#fde68a" text-anchor="middle">Render</text>
+
+  <text x="18" y="256" font-size="11" fill="#6b7280">// Core Concepts</text>
+  <text x="18" y="272" font-size="10.5" fill="#d1d5db">DSA · OOP · DBMS · REST APIs · JWT Auth · Agile · Payment Gateways</text>
+</svg>
