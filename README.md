@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/aryank77.png" width="110" height="110"/>
+<br/>
 <img src="./assets/hero-banner.svg" width="100%"/>
 
 </div>
@@ -42,19 +44,27 @@
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="48%"/>
-<img src="./profile/top-langs.svg" width="48%"/>
+**📈 Stats Overview &nbsp;&nbsp;|&nbsp;&nbsp; 🧑‍💻 Top Languages**
+<br/>
+<img src="./profile/stats.svg" width="48%" height="200"/>
+<img src="./profile/top-langs.svg" width="48%" height="200"/>
 
 <br/><br/>
 
+**🔥 Contribution Streak**
+<br/>
 <img src="./profile/streak.svg" width="100%"/>
 
 <br/><br/>
 
+**🐍 Contribution Snake**
+<br/>
 <img src="./profile/snake.svg" width="100%"/>
 
 <br/><br/>
 
+**📅 Contribution Calendar**
+<br/>
 <img src="https://github.com/users/aryank77/contributions" width="100%"/>
 
 </div>
@@ -65,9 +75,9 @@
 
 <div align="center">
 
-<img src="./profile/pin-netflix.svg" width="32%"/>
-<img src="./profile/pin-lpg.svg" width="32%"/>
-<img src="./profile/pin-blog.svg" width="32%"/>
+<img src="./profile/pin-netflix.svg" width="32%" height="150"/>
+<img src="./profile/pin-lpg.svg" width="32%" height="150"/>
+<img src="./profile/pin-blog.svg" width="32%" height="150"/>
 
 </div>
 
