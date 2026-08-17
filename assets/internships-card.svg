@@ -1,0 +1,22 @@
+<svg width="560" height="220" viewBox="0 0 560 220" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <rect x="1" y="1" width="558" height="218" rx="10" fill="#0d1117" stroke="#1f2937"/>
+  <text x="16" y="20" font-size="11" fill="#6b7280">● aryank77/internships.log</text>
+  <circle cx="538" cy="16" r="4" fill="#374151"/>
+  <line x1="0" y1="30" x2="560" y2="30" stroke="#1f2937"/>
+
+  <rect x="18" y="46" width="40" height="40" rx="10" fill="#3b82f6"/>
+  <rect x="28" y="58" width="20" height="16" rx="2" fill="#ffffff"/>
+  <rect x="34" y="54" width="8" height="6" rx="1" fill="#ffffff"/>
+
+  <text x="70" y="65" font-size="17" font-weight="bold" fill="#f3f4f6">Virtual Internships_</text>
+
+  <rect x="18" y="90" width="524" height="52" rx="8" fill="#111827" stroke="#22d3ee" stroke-opacity="0.3"/>
+  <text x="30" y="108" font-size="12" font-weight="bold" fill="#67e8f9">🔷 Tata — GenAI Data Analytics (Forage)</text>
+  <text x="30" y="126" font-size="11" fill="#9ca3af">EDA, business risk profiling, AI analytics workflows</text>
+  <text x="480" y="108" font-size="10" fill="#6b7280">Sep 2025</text>
+
+  <rect x="18" y="150" width="524" height="52" rx="8" fill="#111827" stroke="#a78bfa" stroke-opacity="0.3"/>
+  <text x="30" y="168" font-size="12" font-weight="bold" fill="#c4b5fd">🔒 Tata — Cybersecurity Analyst (Forage)</text>
+  <text x="30" y="186" font-size="11" fill="#9ca3af">IAM fundamentals, cyber risk assessment frameworks</text>
+  <text x="480" y="168" font-size="10" fill="#6b7280">Apr 2026</text>
+</svg>
