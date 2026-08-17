@@ -6,17 +6,17 @@
 
 <br/>
 
-## 🧠 About Me
-
-<img src="./assets/about-card.svg" width="100%"/>
-
-<br/>
-
 ## 💼 Featured Projects
 
 <img src="./assets/netflix-card.svg" width="48%"/> <img src="./assets/lpg-card.svg" width="48%"/>
 <br/><br/>
 <img src="./assets/blog-card.svg" width="48%"/>
+
+<br/>
+
+## 🧠 About Me
+
+<img src="./assets/about-card.svg" width="100%"/>
 
 <br/>
 
@@ -52,6 +52,22 @@
 <br/><br/>
 
 <img src="./profile/snake.svg" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github.com/users/aryank77/contributions" width="100%"/>
+
+</div>
+
+<br/>
+
+## 📌 Pinned Repos
+
+<div align="center">
+
+<img src="./profile/pin-netflix.svg" width="32%"/>
+<img src="./profile/pin-lpg.svg" width="32%"/>
+<img src="./profile/pin-blog.svg" width="32%"/>
 
 </div>
 
