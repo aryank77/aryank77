@@ -1,78 +1,114 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryank77/aryank77/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryank77/aryank77/main/light.svg">
-  <img alt="Aryan Chaudhary" src="https://raw.githubusercontent.com/aryank77/aryank77/main/light.svg">
-</picture>
-
-<!-- ===== GITHUB STATS ===== -->
-
 <div align="center">
 
-<!-- Streak — full width -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aryank77&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=aryank77&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Aryan's streak" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Hi%20There,%20I'm%20Aryan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Django&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
-
-<!-- Stats + Top languages — side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aryank77&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryank77&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Aryan's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank77&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank77&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
-
-</div>
-
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryank77/aryank77/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryank77/aryank77/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aryank77/aryank77/output/snake-light.svg" />
-</picture>
-
-</div>
-
-<!-- ===== END SNAKE ===== -->
-<br/>
-<br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryank77/aryank77/projects/projects.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryank77/aryank77/projects/projects-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/aryank77/aryank77/projects/projects-light.svg" alt="Projects" />
-</picture>
-</div>
-
-<!-- ===== SOCIAL BADGES ===== -->
-<br/>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aryank779/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
 <a href="https://github.com/aryank77">
-  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" alt="GitHub" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+%7C+Django;B.Tech+CSE+%40+BBDU+Lucknow;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=520&height=45&color=00F5FF&vCenter=true&size=22&pause=1200"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:chaudharyaryan779@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
 
 </div>
 
-<!-- ===== END SOCIAL BADGES ===== -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/aryank77/count.svg" alt="Profile Views"/>
+</p>
 
-<!-- ==================================== -->
+<p align="center">
+  <a href="https://linkedin.com/in/aryank779"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chaudharyaryan779@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/aryank77"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+```yaml
+name: Aryan
+role: Aspiring Full Stack Software Developer
+education: B.Tech CSE, Babu Banarasi Das University, Lucknow (2023 - 2027)
+cgpa: 8.6 / 10
+location: Lucknow, Uttar Pradesh, India
+focus: MERN Stack | Django | REST APIs | JWT Auth
+currently: Preparing for placements & building CivicAI 🇮🇳
+fun_fact: I turn coffee ☕ into scalable web apps
+```
+
+---
+
+### ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,bootstrap,nodejs,express,django,mongodb,postgres,git,github,vscode,postman,vercel,render&theme=dark" />
+</p>
+
+<div align="center">
+
+| Frontend | Backend | Database | Tools |
+|:---:|:---:|:---:|:---:|
+| React.js, HTML5, CSS3, Bootstrap | Node.js, Express.js, Django | MongoDB, MongoDB Atlas, PostgreSQL | Git, GitHub, Postman, Vercel, Render |
+
+</div>
+
+**Core Concepts:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · RESTful API Design · JWT Authentication · Agile Development · Payment Gateway Integration
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTMwMCIgaGVpZ2h0PSI0NzAiIHZpZXdCb3g9IjAgMCAxMzAwIDQ3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJvcmRlckdsb3ciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMjJkM2VlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2E3OGJmYSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icmluZ0dyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMjJkM2VlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2E3OGJmYSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDojMGQxMTE3OyB9CiAgICAgIC5jYXJkIHsgZmlsbDojMGYxNDIwOyBzdHJva2U6dXJsKCNib3JkZXJHbG93KTsgc3Ryb2tlLXdpZHRoOjEuNDsgcng6MTA7IH0KICAgICAgLnRlcm0geyBmb250LWZhbWlseTonQ291cmllciBOZXcnLCBtb25vc3BhY2U7IGZpbGw6IzIyZDNlZTsgZm9udC1zaXplOjE1cHg7IGxldHRlci1zcGFjaW5nOjFweDsgfQogICAgICAucmVwbyB7IGZvbnQtZmFtaWx5OidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZTsgZmlsbDojN2Q4NTkwOyBmb250LXNpemU6MTJweDsgfQogICAgICAudGl0bGUgeyBmb250LWZhbWlseTonQ291cmllciBOZXcnLCBtb25vc3BhY2U7IGZpbGw6I2U2ZWRmMzsgZm9udC1zaXplOjE5cHg7IGZvbnQtd2VpZ2h0OmJvbGQ7IH0KICAgICAgLmRlc2MgeyBmb250LWZhbWlseTonU2Vnb2UgVUknLCBzYW5zLXNlcmlmOyBmaWxsOiM5YWE0YjI7IGZvbnQtc2l6ZToxMi41cHg7IH0KICAgICAgLnRhZyB7IGZvbnQtZmFtaWx5OidTZWdvZSBVSScsIHNhbnMtc2VyaWY7IGZpbGw6I2M5YjNmZjsgZm9udC1zaXplOjExcHg7IH0KICAgICAgLnRhZ2JnIHsgZmlsbDojMmExZjQ3OyByeDoxMDsgfQogICAgICAubGFuZyB7IGZvbnQtZmFtaWx5OidTZWdvZSBVSScsIHNhbnMtc2VyaWY7IGZpbGw6IzlhYTRiMjsgZm9udC1zaXplOjExLjVweDsgfQogICAgICAuZm9vdCB7IGZvbnQtZmFtaWx5OidTZWdvZSBVSScsIHNhbnMtc2VyaWY7IGZpbGw6IzdkODU5MDsgZm9udC1zaXplOjExLjVweDsgfQogICAgICAucGN0IHsgZm9udC1mYW1pbHk6J0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlOyBmaWxsOiNmZmZmZmY7IGZvbnQtc2l6ZToxNnB4OyBmb250LXdlaWdodDpib2xkOyB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KCiAgPHJlY3QgY2xhc3M9ImJnIiB3aWR0aD0iMTMwMCIgaGVpZ2h0PSI0NzAiIHJ4PSIxMiIvPgoKICA8IS0tIFRlcm1pbmFsIGhlYWRlciAtLT4KICA8dGV4dCB4PSIyNCIgeT0iMzAiIGNsYXNzPSJ0ZXJtIj5QUk9KRUNUUy5MSVNUPC90ZXh0PgogIDx0ZXh0IHg9IjE5MCIgeT0iMzAiIGNsYXNzPSJyZXBvIj4uL3Byb2plY3RzLnNoIC0tYWxsPHRzcGFuIGlkPSJjdXIxIiBvcGFjaXR5PSIxIj5fPC90c3Bhbj48L3RleHQ+CiAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI2N1cjEiIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMTswOzEiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPGNpcmNsZSBjeD0iMTI3MCIgY3k9IjI0IiByPSI0IiBmaWxsPSIjM2ZiOTUwIi8+CgogIDwhLS0gPT09PT09PT09PT09PT09PT09PT09IENBUkQgMSA6IE5ldGZsaXggQ2xvbmUgPT09PT09PT09PT09PT09PT09PT09IC0tPgogIDxnPgogICAgPHJlY3QgeD0iMjAiIHk9IjUwIiB3aWR0aD0iNjEwIiBoZWlnaHQ9IjE4MCIgY2xhc3M9ImNhcmQiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2Utb3BhY2l0eSIgdmFsdWVzPSIwLjU1OzE7MC41NSIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvcmVjdD4KICAgIDxjaXJjbGUgY3g9IjM0IiBjeT0iNjYiIHI9IjMiIGZpbGw9IiMyMmQzZWUiLz4KICAgIDx0ZXh0IHg9IjQ2IiB5PSI3MCIgY2xhc3M9InJlcG8iPmFyeWFuazc3L05ldGZsaXgtZnJvbnRlbmQ8L3RleHQ+CiAgICA8Y2lyY2xlIGN4PSI2MTIiIGN5PSI2NiIgcj0iMy41IiBmaWxsPSIjM2ZiOTUwIi8+CgogICAgPCEtLSBpY29uIC0tPgogICAgPHJlY3QgeD0iNDAiIHk9Ijg2IiB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHJ4PSIxMCIgZmlsbD0iI2UwMjkzZSIvPgogICAgPHBvbHlnb24gcG9pbnRzPSI1NSw5NyA1NSwxMTcgNzIsMTA3IiBmaWxsPSIjZmZmZmZmIi8+CgogICAgPHRleHQgeD0iOTYiIHk9IjEwNCIgY2xhc3M9InRpdGxlIj5OZXRmbGl4IENsb25lPHRzcGFuIGlkPSJjdXIyIiBvcGFjaXR5PSIxIj5fPC90c3Bhbj48L3RleHQ+CiAgICA8YW5pbWF0ZSB4bGluazpocmVmPSIjY3VyMiIgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzA7MSIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDx0ZXh0IHg9Ijk2IiB5PSIxMjQiIGNsYXNzPSJkZXNjIj5GdWxsLXN0YWNrIE5ldGZsaXgtc3R5bGUgc3RyZWFtaW5nIFVJIHdpdGggSldUIGF1dGgsPC90ZXh0PgogICAgPHRleHQgeD0iOTYiIHk9IjE0MCIgY2xhc3M9ImRlc2MiPlRNREIgQVBJIGludGVncmF0aW9uLCBhbmQgbGl2ZSBtb3ZpZSBzZWFyY2g8L3RleHQ+CgogICAgPCEtLSB0YWdzIC0tPgogICAgPHJlY3QgeD0iOTYiIHk9IjE1MiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjIwIiBjbGFzcz0idGFnYmciLz4KICAgIDx0ZXh0IHg9IjEwNiIgeT0iMTY2IiBjbGFzcz0idGFnIj5SZWFjdDwvdGV4dD4KICAgIDxyZWN0IHg9IjE1NCIgeT0iMTUyIiB3aWR0aD0iNDIiIGhlaWdodD0iMjAiIGNsYXNzPSJ0YWdiZyIvPgogICAgPHRleHQgeD0iMTYzIiB5PSIxNjYiIGNsYXNzPSJ0YWciPlZpdGU8L3RleHQ+CiAgICA8cmVjdCB4PSIyMDIiIHk9IjE1MiIgd2lkdGg9IjcwIiBoZWlnaHQ9IjIwIiBjbGFzcz0idGFnYmciLz4KICAgIDx0ZXh0IHg9IjIxMSIgeT0iMTY2IiBjbGFzcz0idGFnIj5Nb25nb0RCPC90ZXh0PgoKICAgIDwhLS0gbGFuZyBiYXJzIC0tPgogICAgPGNpcmNsZSBjeD0iNDA1IiBjeT0iOTQiIHI9IjQiIGZpbGw9IiNhNzhiZmEiLz4KICAgIDx0ZXh0IHg9IjQxNSIgeT0iOTgiIGNsYXNzPSJsYW5nIj5KYXZhU2NyaXB0IDc1JTwvdGV4dD4KICAgIDxjaXJjbGUgY3g9IjQwNSIgY3k9IjExNCIgcj0iNCIgZmlsbD0iIzIyZDNlZSIvPgogICAgPHRleHQgeD0iNDE1IiB5PSIxMTgiIGNsYXNzPSJsYW5nIj5DU1MgMjQlPC90ZXh0PgogICAgPGNpcmNsZSBjeD0iNDA1IiBjeT0iMTM0IiByPSI0IiBmaWxsPSIjM2ZiOTUwIi8+CiAgICA8dGV4dCB4PSI0MTUiIHk9IjEzOCIgY2xhc3M9ImxhbmciPkhUTUwgMCU8L3RleHQ+CgogICAgPCEtLSByaW5nIC0tPgogICAgPGNpcmNsZSBjeD0iNTgwIiBjeT0iMTIwIiByPSIzNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMWMyMjMwIiBzdHJva2Utd2lkdGg9IjciLz4KICAgIDxjaXJjbGUgY3g9IjU4MCIgY3k9IjEyMCIgcj0iMzQiIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNyaW5nR3JhZCkiIHN0cm9rZS13aWR0aD0iNyIKICAgICAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAgNTgwIDEyMCkiCiAgICAgIHN0cm9rZS1kYXNoYXJyYXk9IjIxMy42IiBzdHJva2UtZGFzaG9mZnNldD0iMjEzLjYiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2UtZGFzaG9mZnNldCIgZnJvbT0iMjEzLjYiIHRvPSI1My40IiBkdXI9IjEuNnMiIGZpbGw9ImZyZWV6ZSIvPgogICAgPC9jaXJjbGU+CiAgICA8dGV4dCB4PSI1ODAiIHk9IjEyNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InBjdCI+NzUlPC90ZXh0PgoKICAgIDx0ZXh0IHg9IjQwIiB5PSIyMTgiIGNsYXNzPSJmb290Ij7imIUgMCAmIzE2MDsmIzE2MDt1cGRhdGVkIDdkIGFnbzwvdGV4dD4KICA8L2c+CgogIDwhLS0gPT09PT09PT09PT09PT09PT09PT09IENBUkQgMiA6IFNtYXJ0IExQRyBTeXN0ZW0gPT09PT09PT09PT09PT09PT09PT09IC0tPgogIDxnPgogICAgPHJlY3QgeD0iNjUwIiB5PSI1MCIgd2lkdGg9IjYxMCIgaGVpZ2h0PSIxODAiIGNsYXNzPSJjYXJkIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLW9wYWNpdHkiIHZhbHVlcz0iMC41NTsxOzAuNTUiIGR1cj0iM3MiIGJlZ2luPSIwLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC9yZWN0PgogICAgPGNpcmNsZSBjeD0iNjY0IiBjeT0iNjYiIHI9IjMiIGZpbGw9IiMyMmQzZWUiLz4KICAgIDx0ZXh0IHg9IjY3NiIgeT0iNzAiIGNsYXNzPSJyZXBvIj5hcnlhbms3Ny9zbWFydC1scGctbWFuYWdlbWVudC1zeXN0ZW08L3RleHQ+CiAgICA8Y2lyY2xlIGN4PSIxMjQyIiBjeT0iNjYiIHI9IjMuNSIgZmlsbD0iIzNmYjk1MCIvPgoKICAgIDxyZWN0IHg9IjY3MCIgeT0iODYiIHdpZHRoPSI0MiIgaGVpZ2h0PSI0MiIgcng9IjEwIiBmaWxsPSIjMWY2ZmViIi8+CiAgICA8cGF0aCBkPSJNNjkxIDkyIGM0IDYgLTYgOSAtMyAxNiBjMSAzIDUgNCA3IDEgYzIgNSAtMyAxMCAtOCAxMCBjLTYgMCAtMTAgLTUgLTkgLTExIGMxIC02IDggLTkgNiAtMTYgeiIgZmlsbD0iI2ZmYjQ1NCIvPgoKICAgIDx0ZXh0IHg9IjcyNiIgeT0iMTA0IiBjbGFzcz0idGl0bGUiPlNtYXJ0IExQRyBTeXN0ZW08dHNwYW4gaWQ9ImN1cjMiIG9wYWNpdHk9IjEiPl88L3RzcGFuPjwvdGV4dD4KICAgIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNjdXIzIiBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjE7MDsxIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPHRleHQgeD0iNzI2IiB5PSIxMjQiIGNsYXNzPSJkZXNjIj5MUEcgY3lsaW5kZXIgYm9va2luZyBhbmQgZGVsaXZlcnk8L3RleHQ+CiAgICA8dGV4dCB4PSI3MjYiIHk9IjE0MCIgY2xhc3M9ImRlc2MiPnRyYWNraW5nIHdpdGggUmF6b3JwYXkgaW50ZWdyYXRpb248L3RleHQ+CgogICAgPHJlY3QgeD0iNzI2IiB5PSIxNTIiIHdpZHRoPSI1NCIgaGVpZ2h0PSIyMCIgY2xhc3M9InRhZ2JnIi8+CiAgICA8dGV4dCB4PSI3MzYiIHk9IjE2NiIgY2xhc3M9InRhZyI+RGphbmdvPC90ZXh0PgogICAgPHJlY3QgeD0iNzg2IiB5PSIxNTIiIHdpZHRoPSI3NiIgaGVpZ2h0PSIyMCIgY2xhc3M9InRhZ2JnIi8+CiAgICA8dGV4dCB4PSI3OTUiIHk9IjE2NiIgY2xhc3M9InRhZyI+UG9zdGdyZVNRTDwvdGV4dD4KICAgIDxyZWN0IHg9Ijg2OCIgeT0iMTUyIiB3aWR0aD0iNjYiIGhlaWdodD0iMjAiIGNsYXNzPSJ0YWdiZyIvPgogICAgPHRleHQgeD0iODc3IiB5PSIxNjYiIGNsYXNzPSJ0YWciPlJhem9ycGF5PC90ZXh0PgoKICAgIDxjaXJjbGUgY3g9IjEwMzUiIGN5PSI5NCIgcj0iNCIgZmlsbD0iI2E3OGJmYSIvPgogICAgPHRleHQgeD0iMTA0NSIgeT0iOTgiIGNsYXNzPSJsYW5nIj5IVE1MIDUwJTwvdGV4dD4KICAgIDxjaXJjbGUgY3g9IjEwMzUiIGN5PSIxMTQiIHI9IjQiIGZpbGw9IiMyMmQzZWUiLz4KICAgIDx0ZXh0IHg9IjEwNDUiIHk9IjExOCIgY2xhc3M9ImxhbmciPlB5dGhvbiA0MiU8L3RleHQ+CiAgICA8Y2lyY2xlIGN4PSIxMDM1IiBjeT0iMTM0IiByPSI0IiBmaWxsPSIjM2ZiOTUwIi8+CiAgICA8dGV4dCB4PSIxMDQ1IiB5PSIxMzgiIGNsYXNzPSJsYW5nIj5DU1MgNyU8L3RleHQ+CgogICAgPGNpcmNsZSBjeD0iMTIwNSIgY3k9IjEyMCIgcj0iMzQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzFjMjIzMCIgc3Ryb2tlLXdpZHRoPSI3Ii8+CiAgICA8Y2lyY2xlIGN4PSIxMjA1IiBjeT0iMTIwIiByPSIzNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3JpbmdHcmFkKSIgc3Ryb2tlLXdpZHRoPSI3IgogICAgICBzdHJva2UtbGluZWNhcD0icm91bmQiIHRyYW5zZm9ybT0icm90YXRlKC05MCAxMjA1IDEyMCkiCiAgICAgIHN0cm9rZS1kYXNoYXJyYXk9IjIxMy42IiBzdHJva2UtZGFzaG9mZnNldD0iMjEzLjYiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2UtZGFzaG9mZnNldCIgZnJvbT0iMjEzLjYiIHRvPSIxMDYuOCIgZHVyPSIxLjZzIiBiZWdpbj0iMC4zcyIgZmlsbD0iZnJlZXplIi8+CiAgICA8L2NpcmNsZT4KICAgIDx0ZXh0IHg9IjEyMDUiIHk9IjEyNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InBjdCI+NTAlPC90ZXh0PgoKICAgIDx0ZXh0IHg9IjY3MCIgeT0iMjE4IiBjbGFzcz0iZm9vdCI+4piFIDAgJiMxNjA7JiMxNjA7dXBkYXRlZCAyMGQgYWdvPC90ZXh0PgogIDwvZz4KCiAgPCEtLSA9PT09PT09PT09PT09PT09PT09PT0gQ0FSRCAzIDogVGVjaCBCbG9nIFBsYXRmb3JtID09PT09PT09PT09PT09PT09PT09PSAtLT4KICA8Zz4KICAgIDxyZWN0IHg9IjIwIiB5PSIyNjAiIHdpZHRoPSI2MTAiIGhlaWdodD0iMTgwIiBjbGFzcz0iY2FyZCI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0cm9rZS1vcGFjaXR5IiB2YWx1ZXM9IjAuNTU7MTswLjU1IiBkdXI9IjNzIiBiZWdpbj0iMC44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvcmVjdD4KICAgIDxjaXJjbGUgY3g9IjM0IiBjeT0iMjc2IiByPSIzIiBmaWxsPSIjMjJkM2VlIi8+CiAgICA8dGV4dCB4PSI0NiIgeT0iMjgwIiBjbGFzcz0icmVwbyI+YXJ5YW5rNzcvQmxvZy1Qb3N0LUZyb250ZW5kPC90ZXh0PgogICAgPGNpcmNsZSBjeD0iNjEyIiBjeT0iMjc2IiByPSIzLjUiIGZpbGw9IiMzZmI5NTAiLz4KCiAgICA8cmVjdCB4PSI0MCIgeT0iMjk2IiB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHJ4PSIxMCIgZmlsbD0iIzNmYjk1MCIvPgogICAgPHJlY3QgeD0iNTMiIHk9IjMwNyIgd2lkdGg9IjE2IiBoZWlnaHQ9IjMiIGZpbGw9IiNmZmZmZmYiLz4KICAgIDxyZWN0IHg9IjUzIiB5PSIzMTMiIHdpZHRoPSIxNiIgaGVpZ2h0PSIzIiBmaWxsPSIjZmZmZmZmIi8+CiAgICA8cmVjdCB4PSI1MyIgeT0iMzE5IiB3aWR0aD0iMTYiIGhlaWdodD0iMyIgZmlsbD0iI2ZmZmZmZiIvPgogICAgPHJlY3QgeD0iNTMiIHk9IjMyNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjMiIGZpbGw9IiNmZmZmZmYiLz4KCiAgICA8dGV4dCB4PSI5NiIgeT0iMzE0IiBjbGFzcz0idGl0bGUiPlRlY2ggQmxvZyBQbGF0Zm9ybTx0c3BhbiBpZD0iY3VyNCIgb3BhY2l0eT0iMSI+XzwvdHNwYW4+PC90ZXh0PgogICAgPGFuaW1hdGUgeGxpbms6aHJlZj0iI2N1cjQiIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMTswOzEiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8dGV4dCB4PSI5NiIgeT0iMzM0IiBjbGFzcz0iZGVzYyI+RnVsbC1zdGFjayBibG9nZ2luZyBwbGF0Zm9ybSB3aXRoIHNlY3VyZTwvdGV4dD4KICAgIDx0ZXh0IHg9Ijk2IiB5PSIzNTAiIGNsYXNzPSJkZXNjIj5hdXRoZW50aWNhdGlvbiBhbmQgY2F0ZWdvcnkgbWFuYWdlbWVudDwvdGV4dD4KCiAgICA8cmVjdCB4PSI5NiIgeT0iMzYyIiB3aWR0aD0iNTIiIGhlaWdodD0iMjAiIGNsYXNzPSJ0YWdiZyIvPgogICAgPHRleHQgeD0iMTA2IiB5PSIzNzYiIGNsYXNzPSJ0YWciPlJlYWN0PC90ZXh0PgogICAgPHJlY3QgeD0iMTU0IiB5PSIzNjIiIHdpZHRoPSI2MCIgaGVpZ2h0PSIyMCIgY2xhc3M9InRhZ2JnIi8+CiAgICA8dGV4dCB4PSIxNjMiIHk9IjM3NiIgY2xhc3M9InRhZyI+Tm9kZS5qczwvdGV4dD4KICAgIDxyZWN0IHg9IjIyMCIgeT0iMzYyIiB3aWR0aD0iNDIiIGhlaWdodD0iMjAiIGNsYXNzPSJ0YWdiZyIvPgogICAgPHRleHQgeD0iMjI5IiB5PSIzNzYiIGNsYXNzPSJ0YWciPkpXVDwvdGV4dD4KCiAgICA8Y2lyY2xlIGN4PSI0MDUiIGN5PSIzMDQiIHI9IjQiIGZpbGw9IiNhNzhiZmEiLz4KICAgIDx0ZXh0IHg9IjQxNSIgeT0iMzA4IiBjbGFzcz0ibGFuZyI+SmF2YVNjcmlwdCA5MCU8L3RleHQ+CiAgICA8Y2lyY2xlIGN4PSI0MDUiIGN5PSIzMjQiIHI9IjQiIGZpbGw9IiMyMmQzZWUiLz4KICAgIDx0ZXh0IHg9IjQxNSIgeT0iMzI4IiBjbGFzcz0ibGFuZyI+Q1NTIDklPC90ZXh0PgogICAgPGNpcmNsZSBjeD0iNDA1IiBjeT0iMzQ0IiByPSI0IiBmaWxsPSIjM2ZiOTUwIi8+CiAgICA8dGV4dCB4PSI0MTUiIHk9IjM0OCIgY2xhc3M9ImxhbmciPkhUTUwgMCU8L3RleHQ+CgogICAgPGNpcmNsZSBjeD0iNTgwIiBjeT0iMzMwIiByPSIzNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMWMyMjMwIiBzdHJva2Utd2lkdGg9IjciLz4KICAgIDxjaXJjbGUgY3g9IjU4MCIgY3k9IjMzMCIgcj0iMzQiIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNyaW5nR3JhZCkiIHN0cm9rZS13aWR0aD0iNyIKICAgICAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAgNTgwIDMzMCkiCiAgICAgIHN0cm9rZS1kYXNoYXJyYXk9IjIxMy42IiBzdHJva2UtZGFzaG9mZnNldD0iMjEzLjYiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2UtZGFzaG9mZnNldCIgZnJvbT0iMjEzLjYiIHRvPSIyMS4zNiIgZHVyPSIxLjZzIiBiZWdpbj0iMC42cyIgZmlsbD0iZnJlZXplIi8+CiAgICA8L2NpcmNsZT4KICAgIDx0ZXh0IHg9IjU4MCIgeT0iMzM2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0icGN0Ij45MCU8L3RleHQ+CgogICAgPHRleHQgeD0iNDAiIHk9IjQyOCIgY2xhc3M9ImZvb3QiPuKYhSAwICYjMTYwOyYjMTYwO3VwZGF0ZWQgMjNkIGFnbzwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=" width="100%" alt="Projects Panel"/>
+</div>
+
+<p align="center">
+  <a href="https://your-netflix-clone-demo-link.vercel.app">Live Demo</a> ·
+  <a href="https://your-lpg-demo-link.onrender.com">Live Demo</a>
+</p>
+
+> *Animated (glowing borders, blinking cursors, progress-ring draw-in). Embedded directly as base64 — just push this single README.md, no separate SVG file needed.*
+
+---
+
+### 🏢 Internship Experience
+
+- 🧠 **Tata – GenAI Data Analytics Virtual Internship (Forage)** — Sep 2025
+- 🔐 **Tata – Cybersecurity Analyst Virtual Internship (Forage)** — Apr 2026
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryank77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aryank77&theme=radical&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryank77&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff" width="95%"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aryank77/aryank77/output/github-contribution-grid-snake.svg" width="95%"/>
+</div>
+
+> *Requires the [snake workflow action](https://github.com/Platane/snk) set up in this repo to generate.*
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/aryank779"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chaudharyaryan779@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi%20on%20Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%"/>
+
+</div>
