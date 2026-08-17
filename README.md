@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hi%20There!%20I'm%20Aryan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Django&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Hi, I'm Aryan
+### Full Stack Developer · MERN Stack & Django · B.Tech CSE Student
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Django+%7C+REST+APIs;Building+scalable+web+applications;font=Fira+Code&center=true&width=600&height=40&color=00C6FF&vCenter=true&size=20" />
 
 </div>
 
@@ -50,48 +49,11 @@ Building scalable, user-friendly web apps with strong roots in DSA, OOP, DBMS, R
 
 ## 💼 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎬 Netflix Clone
-<img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-
-✅ Secure JWT login/signup
-✅ TMDB API — trending/search/details
-✅ Deployed: Vercel + Render
-
-</td>
-<td width="33%" valign="top">
-
-### 🔥 Smart LPG Manager
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-
-✅ Booking + auth system
-✅ Razorpay payment integration
-✅ Admin dashboard for bookings
-
-</td>
-<td width="33%" valign="top">
-
-### ✍️ Tech Blog Platform
-<img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-✅ Full CRUD for blogs
-✅ JWT auth + categories + comments
-✅ Search functionality, responsive UI
-
-</td>
-</tr>
-</table>
+<img src="./assets/netflix-card.svg" width="100%"/>
+<br/>
+<img src="./assets/lpg-card.svg" width="100%"/>
+<br/>
+<img src="./assets/blog-card.svg" width="100%"/>
 
 <br/>
 
@@ -99,7 +61,7 @@ Building scalable, user-friendly web apps with strong roots in DSA, OOP, DBMS, R
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aryank77&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryank77&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank77&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <br/>
@@ -122,7 +84,5 @@ Building scalable, user-friendly web apps with strong roots in DSA, OOP, DBMS, R
 ### 🤝 Let's Connect
 ![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
