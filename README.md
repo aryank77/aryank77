@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There!%20I'm%20Aryan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Django%20%7C%20B.Tech%20CSE&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hi%20There!%20I'm%20Aryan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Django&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/aryank779"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:chaudharyaryan779@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/aryank77"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Django+%7C+REST+APIs;Building+scalable+web+applications;Always+learning%2C+always+shipping;font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Django+%7C+REST+APIs;Building+scalable+web+applications;font=Fira+Code&center=true&width=600&height=40&color=00C6FF&vCenter=true&size=20" />
 
 </div>
 
@@ -14,35 +14,37 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE, **Babu Banarasi Das University, Lucknow** (2023–2027) · CGPA: **8.6/10**
-- 🌱 Passionate about building scalable, user-friendly web applications
-- 💡 Strong foundation in DSA, OOP, DBMS, REST APIs & Authentication systems
-- 📍 Lucknow, Uttar Pradesh, India
-- 📫 Reach me at **chaudharyaryan779@gmail.com**
+🎓 B.Tech CSE @ **Babu Banarasi Das University, Lucknow** (2023–2027) · CGPA **8.6/10**
+📍 Lucknow, Uttar Pradesh, India &nbsp;·&nbsp; 📫 chaudharyaryan779@gmail.com
+
+Building scalable, user-friendly web apps with strong roots in DSA, OOP, DBMS, REST APIs & Authentication.
 
 <br/>
 
 ## 🚀 Tech Stack
 
-<div align="center">
-
-**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-
-**Frontend**
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-
-**Database & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,postman,vercel" />
-
-</div>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+</p>
 
 <br/>
 
@@ -50,45 +52,42 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 ### 🎬 Netflix Clone
-**MERN Stack + JWT + TMDB API**
+<img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
-Netflix-inspired streaming app with secure JWT login/signup, dynamic movie search via TMDB API, and responsive React UI. Frontend deployed on Vercel, backend on Render.
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
-
-</td>
-<td width="50%">
-
-### 🔥 Smart LPG Management System
-**Django + PostgreSQL + Razorpay**
-
-Complete LPG booking & management system with secure auth, booking history, Razorpay payment integration, and an admin dashboard.
-
-`Django` `Python` `PostgreSQL` `Bootstrap` `Razorpay`
+✅ Secure JWT login/signup
+✅ TMDB API — trending/search/details
+✅ Deployed: Vercel + Render
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### ✍️ Personal Tech Blog Platform
-**MERN Stack**
+### 🔥 Smart LPG Manager
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
-Full-stack blogging platform with CRUD operations, JWT auth, categories, comments, and search — built with a responsive React UI.
-
-`React.js` `Node.js` `Express.js` `MongoDB`
+✅ Booking + auth system
+✅ Razorpay payment integration
+✅ Admin dashboard for bookings
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🏆 Certifications
-- Full Stack Development — Grastech
-- Python Programming — GUVI (HCL)
-- Web Development (HTML/CSS/JS) — Udemy
-- The Complete JavaScript Course — Udemy
+### ✍️ Tech Blog Platform
+<img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+✅ Full CRUD for blogs
+✅ JWT auth + categories + comments
+✅ Search functionality, responsive UI
 
 </td>
 </tr>
@@ -99,29 +98,30 @@ Full-stack blogging platform with CRUD operations, JWT auth, categories, comment
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryank77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aryank77&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryank77&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryank77&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
 </div>
 
 <br/>
 
 ## 🧪 Virtual Internships
 
-- **Tata GenAI Data Analytics** (Forage) — EDA, business risk profiling, AI-driven analytics workflows *(Sep 2025)*
-- **Tata Cybersecurity Analyst** (Forage) — IAM fundamentals, cyber risk assessment, security simulations *(Apr 2026)*
+| Program | Focus | Date |
+|---|---|---|
+| 🔷 Tata GenAI Data Analytics *(Forage)* | EDA, business risk profiling, AI analytics workflows | Sep 2025 |
+| 🔒 Tata Cybersecurity Analyst *(Forage)* | IAM fundamentals, cyber risk assessment | Apr 2026 |
+
+## 🏆 Certifications
+
+`Full Stack Development – Grastech` &nbsp;|&nbsp; `Python – GUVI (HCL)` &nbsp;|&nbsp; `Web Dev – Udemy` &nbsp;|&nbsp; `JavaScript – Udemy`
 
 <br/>
 
 <div align="center">
 
 ### 🤝 Let's Connect
-
-<a href="https://linkedin.com/in/aryank779"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin"/></a>
-<a href="https://github.com/aryank77"><img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=flat-square&logo=github"/></a>
+![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
 
