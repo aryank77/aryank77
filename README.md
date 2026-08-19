@@ -1,7 +1,8 @@
 <div align="center">
 
-
-<img src="https://github.com/aryank77.png" width="110" height="110", "./assets/hero-banner.svg" width="100%"/>
+<img src="https://github.com/aryank77.png" width="110" height="110"/>
+<br/>
+<img src="./assets/hero-banner.svg" width="100%"/>
 
 
 </div>
