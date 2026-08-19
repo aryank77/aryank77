@@ -44,9 +44,9 @@
 
 <div align="center">
 
-**📈 Stats Overview &nbsp;&nbsp;|&nbsp;&nbsp; 🧑‍💻 Top Languages**
+**📈 Stats Overview &nbsp;&nbsp;|&nbsp;&nbsp;   🧑‍💻 Top Languages**
 <br/>
-<img src="./profile/stats.svg" width="48%" height="200"/>
+<img src="./profile/stats.svg" width="48%" height="300"/>
 <img src="./profile/top-langs.svg" width="48%" height="200"/>
 
 <br/><br/>
@@ -54,12 +54,6 @@
 **🔥 Contribution Streak**
 <br/>
 <img src="./profile/streak.svg" width="100%"/>
-
-<br/><br/>
-
-**🐍 Contribution Snake**
-<br/>
-<img src="./profile/snake.svg" width="100%"/>
 
 <br/><br/>
 
