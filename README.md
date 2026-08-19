@@ -45,10 +45,12 @@
 
 <div align="center">
 
-**📈 Stats Overview &nbsp;&nbsp;|&nbsp;&nbsp;  
+📈 Stats Overview &nbsp;&nbsp;|&nbsp;&nbsp;  
 <br/>
 <img src="./profile/stats.svg" width="58%" height="350"/>
+<br/>
 🧑‍💻 Top Languages**
+<br/>
 <img src="./profile/top-langs.svg" width="48%" height="200"/>
 
 <br/><br/>
