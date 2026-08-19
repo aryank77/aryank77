@@ -49,9 +49,10 @@
 <br/>
 <img src="./profile/stats.svg" width="58%" height="350"/>
 <br/>
+<br/>
 🧑‍💻 Top Languages**
 <br/>
-<img src="./profile/top-langs.svg" width="48%" height="200"/>
+<img src="./profile/top-langs.svg" width="58%" height="350"/>
 
 <br/><br/>
 
