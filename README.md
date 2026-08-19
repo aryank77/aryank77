@@ -1,8 +1,10 @@
 <div align="center">
 
+
+<img src="./assets/hero-banner.svg" width="100%"/>
+
 <img src="https://github.com/aryank77.png" width="110" height="110"/>
 <br/>
-<img src="./assets/hero-banner.svg" width="100%"/>
 
 </div>
 
@@ -30,13 +32,13 @@
 
 ## 🏆 Certifications
 
-<img src="./assets/certifications-card.svg" width="100%"/>
+<img src="./assets/certifications-card.svg" width="90%"/>
 
 <br/>
 
 ## 💻 Virtual Internships
 
-<img src="./assets/internships-card.svg" width="100%"/>
+<img src="./assets/internships-card.svg" width="90%"/>
 
 <br/>
 
@@ -53,17 +55,9 @@
 
 **🔥 Contribution Streak**
 <br/>
-<img src="./profile/streak.svg" width="100%"/>
+<img src="./profile/streak.svg" width="90%"/>
 
 <br/><br/>
-
-**📅 Contribution Calendar**
-<br/>
-<img src="https://github.com/users/aryank77/contributions" width="100%"/>
-
-</div>
-
-<br/>
 
 ## 📌 Pinned Repos
 
