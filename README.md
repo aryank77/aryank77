@@ -1,10 +1,8 @@
 <div align="center">
 
 
-<img src="./assets/hero-banner.svg" width="100%"/>
+<img src="https://github.com/aryank77.png" width="110" height="110", "./assets/hero-banner.svg" width="100%"/>
 
-<img src="https://github.com/aryank77.png" width="110" height="110"/>
-<br/>
 
 </div>
 
@@ -20,13 +18,13 @@
 
 ## 🧠 About Me
 
-<img src="./assets/about-card.svg" width="100%"/>
+<img src="./assets/about-card.svg" width="90%"/>
 
 <br/>
 
 ## 🚀 Skills
 
-<img src="./assets/skills-card.svg" width="100%"/>
+<img src="./assets/skills-card.svg" width="90%"/>
 
 <br/>
 
@@ -48,7 +46,7 @@
 
 **📈 Stats Overview &nbsp;&nbsp;|&nbsp;&nbsp;   🧑‍💻 Top Languages**
 <br/>
-<img src="./profile/stats.svg" width="48%" height="300"/>
+<img src="./profile/stats.svg" width="58%" height="350"/>
 <img src="./profile/top-langs.svg" width="48%" height="200"/>
 
 <br/><br/>
