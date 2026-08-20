@@ -11,9 +11,9 @@
 
 ## 💼 Featured Projects
 
-<img src="./assets/netflix-card.svg" width="48%"/> <img src="./assets/lpg-card.svg" width="48%"/>
+<img src="./assets/netflix-card.svg" width="55%"/> <img src="./assets/lpg-card.svg" width="55%"/>
 <br/><br/>
-<img src="./assets/blog-card.svg" width="48%"/>
+<img src="./assets/blog-card.svg" width="55%"/>
 
 <br/>
 
