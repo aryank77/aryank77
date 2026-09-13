@@ -4,7 +4,6 @@
 <br/>
 <img src="./assets/hero-banner.svg" width="100%"/>
 
-
 </div>
 
 <br/>
